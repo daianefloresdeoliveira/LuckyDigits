@@ -11,3 +11,9 @@ Welcome to LuckyDigits, a simple yet fun mobile app built with .NET MAUI that ge
 🔄 One-tap refresh to generate a new lucky number
 
 📱 Cross-platform support (Android, iOS, Windows, and Mac)
+
+
+<p align="center">
+    <img src="luck1.png" width="300">
+    <img src="luck2.png" width="300">
+</p>
