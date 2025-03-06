@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuckyDigits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1b2d0150703e5fffb72750c85bfd45fa3a5ee3b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuckyDigits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuckyDigits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
