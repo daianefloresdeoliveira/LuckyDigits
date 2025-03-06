@@ -8,11 +8,14 @@
 # Ignorar arquivos de build do MAUI
 bin/
 obj/
+.vs/
 .vscode/
 *.db
 *.db-shm
 *.db-wal
 *.pdb
 *.lock
+*.ll
+*.bc
 
 
