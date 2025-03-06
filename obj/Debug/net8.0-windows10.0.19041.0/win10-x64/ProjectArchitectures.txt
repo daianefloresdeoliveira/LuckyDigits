@@ -1,1 +1,0 @@
-C:\GitHub_Repos\LuckyDigits\LuckyDigits.csproj;x64
